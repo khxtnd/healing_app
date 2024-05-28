@@ -1,0 +1,117 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/lora_bold.ttf",
+      "sha1": "2e444def8d9c585fa95eb135a66e55ec0824304b"
+    },
+    {
+      "path": "src/assets/fonts/lora_italic.ttf",
+      "sha1": "a07ad6a0ec38c123e82e14654d6142b6118b9908"
+    },
+    {
+      "path": "src/assets/fonts/lora_medium.ttf",
+      "sha1": "5fb0d23ffdab38a56e61b9126ecaabb8cd384f41"
+    },
+    {
+      "path": "src/assets/fonts/lora_regular.ttf",
+      "sha1": "ac19a510bf9608477c9c566aaea491ecb25d4b20"
+    },
+    {
+      "path": "src/assets/fonts/montserrat_black.ttf",
+      "sha1": "ad9c434705a52d90ac5a770e591c2325fb48c2dc"
+    },
+    {
+      "path": "src/assets/fonts/montserrat_bold.ttf",
+      "sha1": "98c66622226025f539568865af96df5175e2979c"
+    },
+    {
+      "path": "src/assets/fonts/montserrat_italic.ttf",
+      "sha1": "9b14c390a8b40d941f62a971cb6d7d152e59154a"
+    },
+    {
+      "path": "src/assets/fonts/montserrat_light.ttf",
+      "sha1": "9dfbddad5025d8d224b4939e54c1a4ac8ac6015b"
+    },
+    {
+      "path": "src/assets/fonts/montserrat_medium.ttf",
+      "sha1": "25c429296b9d6eb242cba92d1ee7fae484b019cb"
+    },
+    {
+      "path": "src/assets/fonts/montserrat_regular.ttf",
+      "sha1": "bb895d19b8a1fbe1c57fc89cac5da82fdc8fdef4"
+    },
+    {
+      "path": "src/assets/fonts/montserrat_thin.ttf",
+      "sha1": "7061ef5f2b5aef62263dbe728114ccd25014aa4e"
+    },
+    {
+      "path": "src/assets/fonts/notosans_black.ttf",
+      "sha1": "6a68f04629aef2b2b27ae951f629458aa8164e4b"
+    },
+    {
+      "path": "src/assets/fonts/notosans_bold.ttf",
+      "sha1": "e18f3ad767d6060b0c41d12eecd45aa152b28f45"
+    },
+    {
+      "path": "src/assets/fonts/notosans_italic.ttf",
+      "sha1": "0239edb9cfefa352bc048bd8f664d804f508cebf"
+    },
+    {
+      "path": "src/assets/fonts/notosans_light.ttf",
+      "sha1": "98ae7e30e5a6674e4e1ba4ccbafd8ccc91a6af4f"
+    },
+    {
+      "path": "src/assets/fonts/notosans_medium.ttf",
+      "sha1": "f85d0a08f987df19288a61f18a22519ce0551c3e"
+    },
+    {
+      "path": "src/assets/fonts/notosans_thin.ttf",
+      "sha1": "cc85c909da54af71104b4b235780398337c986c3"
+    },
+    {
+      "path": "src/assets/fonts/quicksand_400.ttf",
+      "sha1": "6eebfcb02f142c6e2bf58f7fcb31f10ec914a0ed"
+    },
+    {
+      "path": "src/assets/fonts/quicksand_500.ttf",
+      "sha1": "48d202c7a215914264064dc27f6a8cd77ebe3036"
+    },
+    {
+      "path": "src/assets/fonts/quicksand_600.ttf",
+      "sha1": "43fdbf795bb0b7cc5b0d3dbcbdef0cdec0f29ca9"
+    },
+    {
+      "path": "src/assets/fonts/quicksand_700.ttf",
+      "sha1": "8727a6ae26c6646a7f25bfe6560e19c9265ea87c"
+    },
+    {
+      "path": "src/assets/fonts/quicksand_italic.ttf",
+      "sha1": "7bb5ef4f91fa386029d58a1242d8cec5645322ab"
+    },
+    {
+      "path": "src/assets/fonts/roboto_black.ttf",
+      "sha1": "3f8e401d808f6ce84b542266726514ac8be73171"
+    },
+    {
+      "path": "src/assets/fonts/roboto_bold.ttf",
+      "sha1": "62442a18a9fe9457c1afeabf683d263a691b7798"
+    },
+    {
+      "path": "src/assets/fonts/roboto_italic.ttf",
+      "sha1": "65f3f6a7e1bd2fa6f2df35e4b07775d7f1dde4f0"
+    },
+    {
+      "path": "src/assets/fonts/roboto_light.ttf",
+      "sha1": "18788c5d630fa695f9283f6393bfa541b2031508"
+    },
+    {
+      "path": "src/assets/fonts/roboto_medium.ttf",
+      "sha1": "3c6a09fcc6a454924c81af7dff94fc6d399ed79b"
+    },
+    {
+      "path": "src/assets/fonts/roboto_thin.ttf",
+      "sha1": "58c733e22bceeaf9609ce578eca92ac303c6d92f"
+    }
+  ]
+}
