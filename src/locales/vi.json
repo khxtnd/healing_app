@@ -1,0 +1,14 @@
+{
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất",
+    "exit": "Rời khỏi",
+    "home": "Trang chủ",
+    "profile": "Thông tin cá nhân",
+    "setting": "Cài đặt",
+    "song": "Bài hát",
+    "artist": "Nghệ sĩ",
+    "increment": "Tăng",
+    "decrement": "Giảm",
+    "video": "Video",
+    "music": "Âm nhạc"
+}

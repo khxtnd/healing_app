@@ -1,0 +1,14 @@
+{
+    "login": "Login",
+    "logout": "Logout",
+    "exit": "Exit",
+    "home": "Home",
+    "profile": "Profile",
+    "setting": "Setting",
+    "song": "Song",
+    "artist": "Artist",
+    "increment": "Increment",
+    "decrement": "Decrement",
+    "video": "Video",
+    "music": "Music"
+}
